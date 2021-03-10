@@ -1,5 +1,6 @@
-# datingpredictions
-This app is a command-line dating predictions made by me. (Of Cource)
+# Datingpredictions
+This app is a command-line dating predictions made in python and by me. (Of Cource)
+
 This is text-based, so feel free to give it a gui for easy navigation.
 
 # EXPLANATION OF THE CODE/APP
