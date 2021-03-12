@@ -9,7 +9,7 @@ First, the code will try and determine your gender. Then, once it knows your gen
 
 Secondly, it will take your age name and personality, the same goes for the crush. Then it will try to match you together, by taking personality and age into consideration.
 
-Lastly it will then print out a percentage after making all the calculations about if you and your crush is right for each other or not
+Lastly it will then print out a percentage after making all the calculations about if you and your crush is right for each other or not (Work In Progress)
 
 Thats all i know about it. You guys can put advance maths calculation also while im working on it and make greater calculation than me.
 
