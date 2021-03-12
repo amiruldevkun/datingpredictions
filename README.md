@@ -13,6 +13,6 @@ Lastly it will then print out a percentage after making all the calculations abo
 
 Thats all i know about it. You guys can put advance maths calculation also while im working on it and make greater calculation than me.
 
-Bye 
+Bye~ 
 
 - Amiruldevkun
