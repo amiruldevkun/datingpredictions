@@ -78,16 +78,16 @@ elif userInputsBoy["personality"] == "openness" or "conscientiousness" and userI
 elif userInputsBoy["personality"] == "conscientiousness" or "neuroticism" and userInputsGirl["personality"] == "conscientiousness" or "neuroticism":
  print("You still have a chance. But, its very slim.")# Self-diciplined and depressed 
 
-# Age predictions
+# Age predictions (Work In Progress)
 
-if (12 < userInputsBoy["age"] < 17) and (12 < userInputsGirl["age"] < 17):
-    if persona == True:
-     print("PogU")
+#if (12 < userInputsBoy["age"] < 17) and (12 < userInputsGirl["age"] < 17):
+    #if persona == True:
+     #print("PogU")
 
-if (12 < userInputsBoy["age"] < 22) and (12 < userInputsGirl["age"] < 22):
-    if persona == True:
-        print("WeirdChamp")
-print("You can now exit the program") 
+#if (12 < userInputsBoy["age"] < 22) and (12 < userInputsGirl["age"] < 22):
+    #if persona == True:
+        #print("WeirdChamp")
+#print("You can now exit the program") 
 
 
                             
