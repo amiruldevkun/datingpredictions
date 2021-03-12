@@ -1,4 +1,4 @@
-# Datingpredictions
+# Dating Predictions
 This app is a command-line dating predictions made in python and by me. (Of Cource)
 
 This is text-based, so feel free to give it a gui for easy navigation.
