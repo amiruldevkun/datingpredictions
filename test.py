@@ -24,4 +24,4 @@ if usergender == "boy":
         print("Oi! Ya still havent input your name yet!\n Please enter your name to continue.\n")
         print(name)
     else: 
-        pass  
+         
