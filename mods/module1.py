@@ -10,7 +10,8 @@ boy = {
 girl = {
     "name" : "",
     "age" : "",
-    "personality" : ["neuroticism", "openness", "agreeableness", "extraversion", "conscientiousness"]
+    "personality" : ["neuroticism", "openness", "agreeableness", "extraversion", "conscientiousness"],
+    "gender" : ""
 }
 # neuroticism = sadge/badmood
 # openness = curious/adventurer
