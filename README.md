@@ -21,4 +21,4 @@ Bye~
 
 # IMPORTANT!!
 
-This repository is no longer maintained. __THE CODE IS NOT UP-TO-DATE__ with the ones on my other repository in the C# language. Please use that one if you want to contribute to this thing. [This is the current repository]("https://github.com/amiruldevkun/Dating-Prediction")
+This repository is no longer maintained. __THE CODE IS NOT UP-TO-DATE__ with the ones on my other repository in the C# language. Please use that one if you want to contribute to this thing. [This is the current repository](https://github.com/amiruldevkun/Dating-Prediction)
